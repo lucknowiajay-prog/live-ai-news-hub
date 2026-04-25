@@ -1,0 +1,23 @@
+{
+  "overview": "A Live AI News Hub that automatically generates and displays structured daily news updates in Hindi + Hinglish. Covers Gold Rates, Weather, Breaking News, Future Trends, and Entertainment — all powered by AI, presented in a slick dark-themed website with a continuous scrolling ticker.",
+  "features": [
+    "AI-generated news content in Hindi + Hinglish mix",
+    "5 sections: Gold Rate, Weather, Breaking News, Future Trends, Entertainment",
+    "Continuous upward scrolling news ticker",
+    "Dark theme with gold accents",
+    "Auto-refresh every 10 seconds (frontend) and 10 minutes (backend AI fetch)",
+    "Caching layer to avoid excessive AI API calls"
+  ],
+  "category": "news-media",
+  "tags": [
+    "news",
+    "ai",
+    "hindi",
+    "hinglish",
+    "live",
+    "ticker",
+    "dark-theme",
+    "gold"
+  ],
+  "last_updated": "2026-04-25T09:01:09.906Z"
+}
